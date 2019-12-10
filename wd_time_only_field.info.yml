@@ -1,0 +1,5 @@
+name: 'WD Time Only Field'
+type: module
+description: 'Time Only Field Type'
+core: 8.x
+package: 'Custom'
